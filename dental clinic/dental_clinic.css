@@ -1,0 +1,280 @@
+
+.si{
+	height: 100px;
+	width: 450px;
+	margin: 40px 175px 40px 175px;
+}
+.ABc{
+	height: 70px;
+	widtgh: 70px;
+	float: left;
+	padding-top: 15px;
+}
+.va{
+	height: 40px;
+	width: 40px;
+	padding-left: 50px;
+	padding-top: 10px;
+}
+.si h3{
+	float: left;
+	margin-left: 5px;
+}
+.ABC{
+	height: 3500px;
+	width: 800px;
+	background-color: #f2f2f2;
+	border: 1px solid grey;
+	margin: 5px 10px 10px 10px;
+
+}
+.abc{
+	height: 300px;
+	width: 690px;
+	background-image: url('images/dental1.jpg');
+	margin: 40px 55px 70px 55px;
+	
+}
+.abc h1{
+	padding-top: 90px;
+	padding-right: 250px;
+}
+.abc span{
+	padding-right: 250px;
+}
+.abd{
+	height: 424px;
+	width: 780px;
+	margin: 10px 20px 50px 20px;
+	
+}
+.a{
+	height: 210px;
+	width: 230px;
+	float: left;
+	margin-left: 10px;
+  margin-right: 20px;
+}
+.b{
+
+	height: 210px;
+	width: 230px;	
+	float: left;
+	margin-right: 20px;
+	margin-left: 10px;
+}
+.c{
+
+	height: 210px;
+	width: 230px;
+	float: left;
+	margin-right: 20px;
+	margin-left: 10px;
+}
+.d{
+
+	height: 210px;
+	width: 230px;	
+	float: left;
+	margin-left: 10px;
+    margin-right: 20px;
+}
+.e{
+
+	height: 210px;
+	width: 230px;
+	float: left;
+	margin-left: 10px;
+    margin-right: 20px;
+}
+.f{
+
+	height: 210px;
+	width: 230px;
+	float: left;
+	margin-left: 10px;
+    margin-right: 20px;
+}
+.g{
+	height: 70px;
+	width: 70px;
+	margin-top: 10px;
+	border: 3px solid #5cc0f9;
+	border-radius: 50%;
+}
+#Abc{
+	font-size: 35px;
+	color: #5cc0f9;
+    margin-top: 17px;
+}
+.a span{
+	font-size: 13px;
+	color: black;
+}
+.b span{
+    font-size: 13px;
+	color: black;
+}
+.c span{
+    font-size: 13px;
+	color: black;
+}
+.d span{
+    font-size: 13px;
+	color: black;
+}
+.e span{
+    font-size: 13px;
+	color: black;
+}
+.f span{
+    font-size: 13px;
+	color: black;
+}
+.gf{
+	height: 480px;
+	width: 800px;
+	background-image: url('images/dental2.jpg');
+	margin-top: 30px;
+}
+.gf h1{
+	padding-top: 30px;
+}
+.ha{
+	height: 450px;
+	width: 800px;
+	background-color: white;
+}
+.bg{
+	height: 35px;
+	width: 120px;
+	background-color: seagreen;
+	color: white;
+}
+.abcd{
+	height: 300px;
+	width: 690px;
+	background-image: url('images/dental3.jpg');
+	margin: 30px 55px 10px 55px;
+}
+.ram{
+	height: 100px;
+	width: 550px;
+	margin-top: 50px;
+
+}
+.bh{
+     height: 350px;
+     width: 690px;
+     margin: 20px 25px 10px 25px;
+}
+.di{
+	height: 250px;
+	width: 220px;
+	margin-right: 10px;
+	float: left;
+	background-image: url('images/dental5.jpg');
+}
+.pr{
+    height: 250px;
+	width: 220px;
+	margin-right: 10px;
+	float: left;
+	background-image: url('images/dental6.jpg');
+}
+.as{
+    height: 250px;
+	width: 220px;
+	float: left;
+	background-image: url('images/dental7.jpg');
+}
+.ak{
+	height: 500px;
+	width: 800px;
+	background-color: white;
+}
+.ga{
+	height: 160px;
+	width: 470px;
+	padding-top: 20px;
+}
+.ma{
+	height: 180px;
+	width: 690px;
+}
+.vu{
+      height: 180px;
+      width: 180px;
+
+      float: left;
+      border-radius: 50%;
+      margin-right: 50px;
+      margin-left: 20px;
+      background-image: url('images/dental11.jpg');
+}
+
+.sim{
+      height: 180px;
+      width: 180px;
+  
+      float: left;
+      border-radius: 50%;
+      margin-right: 50px;
+      background-image: url('images/dental22.jpg');
+}
+.vi{
+      height: 180px;
+      width: 180px;
+      border-radius: 50%;
+      float: left;
+      background-image: url('images/dental33.jpg');
+}
+.ve{
+	height: 50px;
+	width: 670px;
+	margin: 10px 65px 1px 65px;
+}
+.in{
+    height: 20px;
+    width: 223px;
+    float: left;
+} 
+.do{
+    height: 20px;
+    width: 223px;
+    float: left;
+
+}
+.bo{
+    height: 20px;
+    width: 223px;
+    float: left;
+}
+.re{
+	height: 10px;
+    width: 670px;
+    float: left;
+}
+.son{
+	  height: 10px;
+    width: 223px;
+    float: left;
+}
+.don{
+	  height: 10px;
+    width: 223px;
+    float: left;
+}
+.bom{
+	  height: 10px;
+    width: 223px;
+    float: left;
+}
+.bha{
+	height: 230px;
+	width: 800px;
+	background-image: url('images/dental9.jpg');
+	margin-top: 20px;
+}
+
+
