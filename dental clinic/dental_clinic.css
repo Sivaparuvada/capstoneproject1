@@ -1,14 +1,45 @@
-
-.si{
-	height: 100px;
-	width: 450px;
-	margin: 40px 175px 40px 175px;
+.la{
+	height: 120px;
+	width: 690px;
 }
 .ABc{
-	height: 70px;
-	widtgh: 70px;
+	height: 55px;
+	widtgh: 55px;
 	float: left;
-	padding-top: 15px;
+	padding-top: 40px;
+	padding-left: 70px;
+}
+.la h3{
+	padding-right: 440px;
+	padding-top: 50px;
+}
+.la span{
+	padding-right: 350px;
+	position: relative;
+	bottom: 15px;
+}
+.la h1{
+	position: relative;
+	left: 165px;
+	bottom: 100px;
+}
+.la p{
+	position: relative;
+	bottom: 120px;
+	left: 210px;
+}
+.la h4{
+	position: relative;
+	bottom: 140px;
+	left: 150px;
+}
+.vm{
+	height: 33px;
+	width: 33px;
+	float: right;
+	position: relative;
+	bottom: 60px;
+	right: 290px;
 }
 .va{
 	height: 40px;
@@ -16,12 +47,9 @@
 	padding-left: 50px;
 	padding-top: 10px;
 }
-.si h3{
-	float: left;
-	margin-left: 5px;
-}
+
 .ABC{
-	height: 3500px;
+	height: 3450px;
 	width: 800px;
 	background-color: #f2f2f2;
 	border: 1px solid grey;
@@ -32,15 +60,15 @@
 	height: 300px;
 	width: 690px;
 	background-image: url('images/dental1.jpg');
-	margin: 40px 55px 70px 55px;
+	margin: 30px 55px 70px 55px;
 	
 }
 .abc h1{
 	padding-top: 90px;
-	padding-right: 250px;
+	padding-right: 350px;
 }
 .abc span{
-	padding-right: 250px;
+	padding-right: 350px;
 }
 .abd{
 	height: 424px;
@@ -135,10 +163,10 @@
 	height: 480px;
 	width: 800px;
 	background-image: url('images/dental2.jpg');
-	margin-top: 30px;
+	margin-top: 10px;
 }
-.gf h1{
-	padding-top: 30px;
+.gf h2{
+	padding-top: 90px;
 }
 .ha{
 	height: 450px;
@@ -146,10 +174,13 @@
 	background-color: white;
 }
 .bg{
-	height: 35px;
+	height: 23px;
 	width: 120px;
 	background-color: seagreen;
 	color: white;
+}
+.bg span{
+	padding-top: 20px;
 }
 .abcd{
 	height: 300px;
@@ -167,6 +198,24 @@
      height: 350px;
      width: 690px;
      margin: 20px 25px 10px 25px;
+}
+.bh h3{
+	position: relative;
+	right: 230px;
+	top: 24px;
+	font-size: 23px;
+}
+.bh h4{
+	font-size: 23px;
+	position: relative;
+	bottom: 28px;
+
+}
+.bh h5{
+	font-size: 23px;
+	position: relative;
+	bottom: 90px;
+	left: 220px;
 }
 .di{
 	height: 250px;
@@ -205,7 +254,6 @@
 .vu{
       height: 180px;
       width: 180px;
-
       float: left;
       border-radius: 50%;
       margin-right: 50px;
@@ -216,7 +264,6 @@
 .sim{
       height: 180px;
       width: 180px;
-  
       float: left;
       border-radius: 50%;
       margin-right: 50px;
@@ -250,15 +297,12 @@
     width: 223px;
     float: left;
 }
-.re{
-	height: 10px;
-    width: 670px;
-    float: left;
-}
 .son{
 	  height: 10px;
     width: 223px;
     float: left;
+    padding-right: 10px;
+    
 }
 .don{
 	  height: 10px;
@@ -271,10 +315,55 @@
     float: left;
 }
 .bha{
-	height: 230px;
+	height: 200px;
 	width: 800px;
-	background-image: url('images/dental9.jpg');
-	margin-top: 20px;
+	background-image: url('images/dental8.jpg');
 }
+.app{
+	height: 182px;
+	width: 400px;
+	float: left;
+	background-color: white;
 
+}
+.ven{
+	height: 182px;
+	width: 400px;
+	float: left;
+	background-color: white;
+}
+.app h2{
+	padding-right: 70px;
+	padding-top: 10px;
+}
+.app span{
+	font-size: 13px;
+	padding-left: 47px;
+}
+.app p{
+	font-size: 13px;
+	padding-right: 123px;
+}
+.ven h2{
+	padding-top: 10px;
+	padding-right: 70px;
+
+}
+.ven h3{
+	font-size: 23px;
+	padding-right: 170px;
+	position: relative;
+	bottom: 20px;
+}
+.ven span{
+	font-size: 13px;
+	position: relative;
+	bottom: 30px;
+	right: 10px;
+}
+.ven p{
+	font-size: 13px;
+	position: relative;
+	bottom: 40px;
+}
 
